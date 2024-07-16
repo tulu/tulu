@@ -1,6 +1,6 @@
 <div align="center">
   <img width="140" src="https://github.com/tulu/tulu/blob/main/me.jpeg"  alt="Ruben Sosenke"/>
-  <h2 align="center">Ruben Sosenke</h2>
+  <h2 align="center">Tulu</h2>
 </div>
 
 Welcome to my GitHub corner! 🚀 I'm a developer passionate about code, melodic punk/hardcore music, and innovative solutions. Here you'll find a bit of everything: from tech projects to my musical adventures. 🎸💻
@@ -31,9 +31,6 @@ Welcome to my GitHub corner! 🚀 I'm a developer passionate about code, melodic
 
 ### 🌐 [Chrome Extension - NPM Faves](https://github.com/tulu/chrome-extension-npm-faves)
 This open-source Chrome extension helps you manage and organize your favorite NPM packages. Available now on the Chrome Store.
-
-### 🎸 [Especiados](https://www.especiados.com/)
-Yes, I also make music. Especiados is my melodic punk/hardcore band. Here we share our music, lyrics, and everything related to our shows. Come and listen to something spicy! 🌶️
 
 ## 🤝 Connect With Me
 
